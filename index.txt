@@ -66,7 +66,6 @@
             <li><a href="#cascade">Storymap Cascade</a></li>
             <li><a href="#journal">Storymap Journal</a></li>
             <li><a href="#js">Storymap JS</a></li>
-            <li><a href="#leaflet">Leaflet Interactive Maps</a></li>
         </ul>
 
         <h2 id="georef">Georeferencing in ArcGIS Pro</h2>
@@ -154,14 +153,6 @@
        
             <a target="_blank" href="https://okstate-maps.github.io/guide-storymap-js/"><img src="web-images\js.PNG" alt="preview of storymap js"></a>
 
-        <h2 id="leaflet">Leaflet Interactive Maps</h2>
-
-        <p>Leaflet is one of the top sources for mobile-friendly interactive maps. 
-            It is simple to use and works well across all major desktop and mobile platforms. 
-            Leaflet is a great tool for incorporating easy-to-use interactive maps into your website.
-            This <a target="_blank" href="https://okstate-maps.github.io/guide-leaflet/">guide</a> will teach you how to incorporate an interactive Leaflet map into your website.</p>
-
-            <a target="_blank" href="https://okstate-maps.github.io/guide-leaflet/"><img src="web-images/Leaflet.PNG" alt="interactive leaflet map"></a>
         </div>
 
     </body>
