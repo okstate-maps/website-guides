@@ -38,10 +38,30 @@
                 font-size: 10vw;
             }
             img {
-                width: 650px;
                 padding-left: 40px; 
                 padding-right: 200px;
             }
+            
+                    /* Mobile Styles */
+        @media only screen and (max-width: 400px) {
+            img {
+                width: 50%;
+            }
+        }
+
+        /* Tablet Styles */
+        @media only screen and (min-width: 401px) and (max-width: 960px) {
+            img {
+                width: 70%;
+          }
+        }
+
+        /* Desktop Styles */
+        @media only screen and (min-width: 961px) {
+           img {
+               width: 650px;
+            }
+        }
 
         </style>
     </head>
